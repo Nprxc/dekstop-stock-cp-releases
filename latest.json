@@ -1,6 +1,12 @@
 {
   "version": "0.1.0",
-  "notes": "Mise à jour automatique",
-  "pub_date": "2025-12-23T09:23:30.382Z",
-  "platforms": {}
+  "pub_date": "2025-12-23T16:08:10.563Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "url": "https://github.com/Nprxc/dekstop-stock-cp-releases/releases/download/v9/Stock Desktop_0.1.0_aarch64.dmg"
+    },
+    "windows-x86_64": {
+      "url": "https://github.com/Nprxc/dekstop-stock-cp-releases/releases/download/v9/Stock Desktop_0.1.0_x64-setup.exe"
+    }
+  }
 }
